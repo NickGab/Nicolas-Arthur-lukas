@@ -1,1 +1,1 @@
-alert {"Bem Vindo aos Mugiwaras"}
+alert ("Bem Vindo aos Mugiwaras");
